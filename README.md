@@ -518,6 +518,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Text-To-GraphQL](https://github.com/Arize-ai/text-to-graphql-mcp)** - MCP server for text-to-graphql, integrates with Claude Desktop and Cursor.
 - **[TeamCity](https://github.com/itcaat/teamcity-mcp)** - MCP server for TeamCity, integrates with Claude Desktop and Cursor.
 - **[TikTok](https://github.com/Seym0n/tiktok-mcp)** - TikTok integration for getting post details and video subtitles
+- **[TikTok & TikTok Shop](https://github.com/Techssss/tiktok-scraper-api-tiktok-shop-no-watermark)** - TikTok and TikTok Shop (OEC) integration across 22+ countries for watermark-free video metadata, Whisper VTT transcripts, VQScore algorithm audits, product SKUs, seller profiles, and StrongBeat audio beat-sync
 - **[Time](https://github.com/TheoBrigitte/mcp-time)** - MCP server which provides utilities to work with time and dates, with natural language, multiple formats and timezone convertion capabilities.
 - **[Tmux](https://github.com/nickgnd/tmux-mcp)** - Interact with your Tmux sessions, windows and pane, execute commands in tmux panes and retrieve result.
 - **[Todoist](https://github.com/stanislavlysenko0912/todoist-mcp-server)** - Full implementation of Todoist Rest API for MCP server
